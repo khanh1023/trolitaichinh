@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/trolitaichinh/static/css/main.e6c13ad2.css",
-    "main.js": "/trolitaichinh/static/js/main.56ec8433.js",
-    "static/js/453.18dc5af0.chunk.js": "/trolitaichinh/static/js/453.18dc5af0.chunk.js",
-    "index.html": "/trolitaichinh/index.html",
-    "main.e6c13ad2.css.map": "/trolitaichinh/static/css/main.e6c13ad2.css.map",
-    "main.56ec8433.js.map": "/trolitaichinh/static/js/main.56ec8433.js.map",
-    "453.18dc5af0.chunk.js.map": "/trolitaichinh/static/js/453.18dc5af0.chunk.js.map"
+    "main.css": "/finance-app/static/css/main.7ad3ca58.css",
+    "main.js": "/finance-app/static/js/main.eed68112.js",
+    "static/js/549.62f91070.chunk.js": "/finance-app/static/js/549.62f91070.chunk.js",
+    "static/js/211.6134c297.chunk.js": "/finance-app/static/js/211.6134c297.chunk.js",
+    "static/js/453.2b5ee80c.chunk.js": "/finance-app/static/js/453.2b5ee80c.chunk.js",
+    "index.html": "/finance-app/index.html",
+    "main.7ad3ca58.css.map": "/finance-app/static/css/main.7ad3ca58.css.map",
+    "main.eed68112.js.map": "/finance-app/static/js/main.eed68112.js.map",
+    "549.62f91070.chunk.js.map": "/finance-app/static/js/549.62f91070.chunk.js.map",
+    "211.6134c297.chunk.js.map": "/finance-app/static/js/211.6134c297.chunk.js.map",
+    "453.2b5ee80c.chunk.js.map": "/finance-app/static/js/453.2b5ee80c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.56ec8433.js"
+    "static/css/main.7ad3ca58.css",
+    "static/js/main.eed68112.js"
   ]
 }
