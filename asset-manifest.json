@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trolitaichinh/static/css/main.e6c13ad2.css",
+    "main.js": "/trolitaichinh/static/js/main.56ec8433.js",
+    "static/js/453.18dc5af0.chunk.js": "/trolitaichinh/static/js/453.18dc5af0.chunk.js",
+    "index.html": "/trolitaichinh/index.html",
+    "main.e6c13ad2.css.map": "/trolitaichinh/static/css/main.e6c13ad2.css.map",
+    "main.56ec8433.js.map": "/trolitaichinh/static/js/main.56ec8433.js.map",
+    "453.18dc5af0.chunk.js.map": "/trolitaichinh/static/js/453.18dc5af0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.56ec8433.js"
+  ]
+}
